@@ -5,7 +5,7 @@ throw false
 }
 let pesan = args.join` `
 let oi = `🦋➢ 𝐀𝐪𝐮𝐢 𝐥𝐱𝐬 𝐢𝐧𝐯𝐨𝐜𝐚 𝐁𝐚𝐫𝐛𝐢 𝐁𝐨𝐭 🩵:  ${pesan}`
-let teks = `CUNICO DUEÑO Wa.me/51988802645 SI QUIERES ADQUERIR MI BOT COMUNICAME 
+let teks = `CREADOR Wa.me/51988802645 SI QUIERES BOT COMUNICAME 
 🦋 𝐑𝐞𝐯𝐢𝐯𝐚𝐧 𝐞𝐬𝐭𝐫𝐞𝐥𝐥𝐢𝐭𝐚𝐬 ✨ - 𝐁𝐚𝐫𝐛𝐢 𝐁𝐨𝐭🩵 \n\n ${oi}\n\n 🦋➢𝐄𝐭𝐢𝐪𝐮𝐞𝐭𝐚𝐬: \n`
 for (let mem of participants) {
 teks += `🦋≽ @${mem.id.split('@')[0]}\n`}
